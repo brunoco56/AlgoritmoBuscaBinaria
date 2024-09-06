@@ -9,7 +9,7 @@
             int contador =0;
             for (int i = 0; i < vetor.Length; i++)
             {
-                vetor[i] = i * 2;
+                vetor[i] = i * 2;   /// Preenche o vetor com multiplos de 2
             }
 
             Console.WriteLine("Digite o numero a ser buscado: ");
